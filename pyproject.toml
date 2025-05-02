@@ -1,0 +1,10 @@
+[project]
+name = "secure_data_encryption"
+version = "0.1.0"
+description = "Streamlit app using cryptography"
+dependencies = [
+    "streamlit",
+    "cryptography"
+]
+
+[tool.uv]
